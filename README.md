@@ -9,7 +9,8 @@ I made this CV to practice for HTML and CSS after learning them from full stack 
 - CSS
 
 ## Preview
-![image](https://user-images.githubusercontent.com/72008909/208303006-2add8ff5-90f3-47a7-979c-cc17094b0204.png)
+![cvexample2](https://user-images.githubusercontent.com/72008909/208303068-9105e0fe-4b69-4c13-829c-8ea59251d942.gif)
+
 
 ## Site URL
 
